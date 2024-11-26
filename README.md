@@ -26,7 +26,7 @@
 
 ### OR
 
-`yarn dev`
+`yarn start:dev`
 
 # Technologies
 
