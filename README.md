@@ -22,7 +22,7 @@
 
 ### Run the project using:
 
-`npm run dev`
+`npm run start:dev`
 
 ### OR
 
